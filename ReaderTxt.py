@@ -11,4 +11,6 @@ class ReaderTxt:
         self.file_name = file_name
     def readFile(self):
         with open(self.file_name) as file:#TODO: should convert the hour in 00:00 format to a decimal format
-            pass
+            for dat in file.readlines():
+                print(dat)
+        return ["a"]
