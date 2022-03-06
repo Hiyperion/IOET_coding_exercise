@@ -1,5 +1,5 @@
 '''
-Created on viernes, 4 de marzo de 2022
+Created on on march 4, 2022
 @author: Fabricio Cordova
 
 https://github.com/Hiyperion
@@ -12,9 +12,8 @@ import unittest
 from Employee import Employee
 
 NAME = "RENE"
-# NAME = "KURT"
 SCHEDULE = {"MO":[10,12], "TU": [10,12],"TH":[1,3],"SA":[14,18],"SU":[20,21]}
-# SCHEDULE = {"MO":[1,10], "TU": [7,18],"WE":[10,22],"TH":[19,23],"FR":[8,21]}
+
 
 
 
