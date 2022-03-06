@@ -11,7 +11,7 @@ from Employee import Employee
 from ReaderTxt import ReaderTxt
 
 
-class IOET_test():
+class IOET_test:
     """Main class
     """
     @staticmethod
